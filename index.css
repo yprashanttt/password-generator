@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    background-color: #1F2937;
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    text-align: left;
+    color: white;
+}
+
+#header1 {
+    color: white;
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    text-align: left;
+    margin: 0;
+
+    font-size: 40px;
+}
+
+#header2 {
+    color: #4ADF86;
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    text-align: left;
+    margin: 0;
+    margin-top: -10px;
+    font-size: 40px;
+}
+
+#quote{
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.content-box{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 500px;
+    border: 4px solid whitesmoke;
+    border-radius: 5px;
+    padding: 80px 40px 20px 40px;
+}
+
+#btn{
+    color: white;
+    background-color: #4ADF86;
+    border: 0;
+    border-radius: 6px;
+    height: 42px;
+    width: 191px;
+    padding: 9px 17px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+hr{
+    width: 446px;
+    border: 1px solid #2F3E53;
+    margin: 40px 0px;
+}
+
+.pswrd {
+    background-color: #273549;
+    color: #4ADF86;
+    font-size: 16px;
+    height: 39px;
+    width: 211px;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+    padding-top: 17px;
+}
+
+#pswrd-section{
+    display: flex;
+}
+
+#pswrd1{
+    margin-left: 0px;
+}
+
+#pswrd2{
+    margin-left: 24px;
+}
